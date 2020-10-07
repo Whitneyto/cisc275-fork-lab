@@ -14,3 +14,6 @@ Elaine Example, Junior MEEG student, favorite programming language is Excel Macr
 
 
 Anthony Chan, Junior GIScience student, favorite programming language is Java
+
+
+Whitney To, Junior CHEG student, favorite programming language is C++
